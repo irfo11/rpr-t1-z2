@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Maven ###
+target/
+rpr-t1-z2.iml
+.idea
